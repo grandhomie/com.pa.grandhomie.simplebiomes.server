@@ -15,9 +15,9 @@
         "biomes"
     ],
     "companions": [
-        
+        "com.pa.grandhomie.simplebiomes.client"
     ],
     "dependencies": [
-        
+        "com.pa.grandhomie.simplebiomes.client"
     ]
 }
