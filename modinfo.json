@@ -2,14 +2,14 @@
     "author": "Grand Homie",
     "build": "112589",
     "context": "server",
-    "date": "2019-05-02",
+    "date": "2019-05-14",
     "description": "Server side mod for Simple Biomes: grass (grass without reclaimable trees), sandstone (desert only) and arctic (ice only).",
-    "display_name": "Simple Biomes Server",
+    "display_name": "Simple Biomes - Server",
     "forum": "https://forums.planetaryannihilation.com/threads/simple-biomes.73248/",
     "icon": "https://i.imgur.com/CpfqFdx.png",
     "identifier": "com.pa.grandhomie.simplebiomes.server",
     "signature": "not yet implemented",
-    "version": "1.1",
+    "version": "1.2",
     "priority": 100,
     "category": [
         "biomes"
