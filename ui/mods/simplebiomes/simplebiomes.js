@@ -1,1 +1,1 @@
-model.biomes.push('sandstone', 'grass', 'arctic')
+model.biomes.push('sandstone', 'grass', 'arctic', 'gas_small')
