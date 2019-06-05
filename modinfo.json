@@ -1,8 +1,8 @@
 {
-    "author": "Grand Homie",
+    "author": "Grand Homie, Dissonant",
     "build": "113132",
     "context": "server",
-    "date": "2019-06-04",
+    "date": "2019-06-05",
     "description": "Server side mod for Simple Biomes: grass (grass without reclaimable trees), sandstone (desert only), arctic (ice only), gas_small (gas giant with lower minimum size).",
     "display_name": "Simple Biomes - Server",
     "forum": "https://forums.planetaryannihilation.com/threads/simple-biomes.73248/",
