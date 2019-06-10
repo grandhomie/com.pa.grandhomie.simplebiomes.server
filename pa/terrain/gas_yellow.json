@@ -1,5 +1,5 @@
 {
-    "name": "gas_small",
+    "name": "gas_yellow",
     "ambient_sound": "/SE/Ambience/Amb_Planet_Gas",
     "base_biome": "/pa/terrain/base/base.json",
     "enable_terrain": false,
